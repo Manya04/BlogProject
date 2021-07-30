@@ -16,9 +16,9 @@ function NavBar() {
                     <Link to='/articles-list' className='pl-6 pr-8'>
                         Articles
                     </Link>
-                    <Link to='/article' className='pl-6 pr-8'>
+                    {/* <Link to='/article' className='pl-6 pr-8'>
                         Article
-                    </Link>
+                    </Link> */}
                 </li>
             </ul>
         </nav>
